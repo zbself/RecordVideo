@@ -1,2 +1,2 @@
 # RecordVideo
-simple fms record
+simple fms record demo
